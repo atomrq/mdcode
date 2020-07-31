@@ -1,5 +1,5 @@
-/.idea
-/.app
+/idea
+/app
 __pycache__/
 *.py[cod]
 *~
