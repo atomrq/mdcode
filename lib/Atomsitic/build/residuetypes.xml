@@ -1,0 +1,172 @@
+<residue author='jxm'>
+<NB num='25' doc='NB monomer'>
+<atoms>
+ 1  H1C1     jxm_004      
+ 2  C1       jxm_002
+ 3  C2       jxm_002  
+ 4  C3       jxm_003 
+ 5  H2C1     jxm_004 
+ 6  C4       jxm_003 
+ 7  H1C2     jxm_004 
+ 8  H2C2     jxm_004 
+ 9  C5       jxm_002 
+10  C7       jxm_002 
+11  HC3      jxm_004 
+12  C6       jxm_002 
+13  HC4      jxm_004 
+14  H1C5     jxm_004 
+15  H2C5     jxm_004 
+16  H1C7     jxm_004
+17  H2C7     jxm_004
+18  H1C6     jxm_004
+19  H2C6     jxm_004
+</atoms>
+<bonds>
+ 1    2
+ 2    1    3    4    5
+ 3    2    6    7    8
+ 4    2    9   10   11
+ 5    2
+ 6    3   12   10   13
+ 7    3
+ 8    3
+ 9    4   12   14   15
+10    4    6   16   17
+11    4
+12    6    9   18   19
+13    6
+14    9
+15    9
+16   10
+17   10
+18   12
+19   12
+</bonds>
+</NB>
+<END>
+<atoms>
+ 1  O00    jxm_005
+ 2  C01    jxm_002 
+ 3  C02    jxm_003 
+ 4  C03    jxm_002 
+ 5  C04    jxm_003 
+ 6  C05    jxm_002 
+ 7  C06    jxm_002 
+ 8  C07    jxm_003 
+ 9  C08    jxm_002 
+10  H09    jxm_006 
+11  H0A    jxm_004 
+12  H0B    jxm_004 
+13  H0C    jxm_004 
+14  H0D    jxm_004 
+15  H0E    jxm_004 
+16  H0F    jxm_004 
+17  H0G    jxm_004 
+18  H0H    jxm_004 
+19  H0I    jxm_004 
+20  H0J    jxm_004 
+21  H0K    jxm_004 
+22  H0M    jxm_004 
+23  H0N    jxm_004 
+</atoms>
+<bonds>
+ 1    2   10
+ 2    1    3   11   12
+ 3    2    4    8   13
+ 4    3    5   14   15
+ 5    4    6    9   16
+ 6    5    7   17   18
+ 7    6   19   20    8
+ 8    3   21    7    9
+ 9    5   22   23    8
+10    1
+11    2
+12    2
+13    3
+14    4
+15    4
+16    5
+17    6
+18    6
+19    7
+20    7
+21    8
+22    9
+23    9
+</bonds>
+</END>
+<EXO>
+<atoms>
+ 1  O00  jxm_005
+ 2  C01  jxm_002 
+ 3  C02  jxm_003 
+ 4  H03  jxm_004 
+ 5  C04  jxm_002 
+ 6  C05  jxm_003 
+ 7  C06  jxm_002 
+ 8  C07  jxm_002 
+ 9  C08  jxm_003 
+10  C09  jxm_002 
+11  H0A  jxm_006 
+12  H0B  jxm_004 
+13  H0C  jxm_004 
+14  H0D  jxm_004 
+15  H0E  jxm_004 
+16  H0F  jxm_004 
+17  H0G  jxm_004 
+18  H0H  jxm_004 
+19  H0I  jxm_004 
+20  H0J  jxm_004 
+21  H0K  jxm_004 
+22  H0M  jxm_004 
+23  H0N  jxm_004 
+</atoms>
+<bonds>
+ 1    2   11
+ 2    1    3   12   13
+ 3    2    4    5    9
+ 4    3
+ 5    3    6   14   15
+ 6    5    7   10   16
+ 7    6    8   17   18
+ 8    7   19   20    9
+ 9    3   21    8   10
+10    6   22   23    9
+11    1
+12    2
+13    2
+14    5
+15    5
+16    6
+17    7
+18    7
+19    8
+20    8
+21    9
+22   10
+23   10
+</bonds>
+</EXO>
+<PE>
+<atoms>
+1  HT  jxm_004    
+2  C1  jxm_001    
+3  C2  jxm_001    
+4 1H1C jxm_004    
+5 1H2C jxm_004    
+6 2H1C jxm_004    
+7 2H2C jxm_004    
+8  HH  jxm_004    
+</atoms>
+<bonds>
+1    2
+2    1    3    4    5
+3    8    2    6    7
+4    2
+5    2
+6    3
+7    3
+8    3
+</bonds>
+</PE>
+</residue>
